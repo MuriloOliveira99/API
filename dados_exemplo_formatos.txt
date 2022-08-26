@@ -1,0 +1,6 @@
+0001 BrunoSouza Bahia 028 tecnologia
+0002 TiagoRibeiro SantaCatarina 030 politica
+0003 DanielaNunes MinasGerais 051 noticias
+0004 CarlosJunior SaoPaulo 049 ciencia
+0005 RicardoMaia RiodeJaneiro 068 fofoca
+0006 MariaFausto SaoPaulo 025 pets
